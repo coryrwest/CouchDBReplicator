@@ -1,0 +1,16 @@
+{
+  "name": "couchdbreplicator",
+  "version": "0.0.1",
+  "description": "Replicate one couchdb installation to another",
+  "main": "server.js",
+  "dependencies": {
+    "request": "~2.51.0",
+    "promise": "~6.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:cwestropp/couchdbreplicator.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}

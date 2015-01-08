@@ -1,0 +1,9 @@
+{
+  "sourceDb" : "https://COUCHDBINSTALLATION.com:6984",
+  "sourceDbUserName" : "USERNAME",
+  "sourceDbPassword" : "PASSWORD",
+  "targetDb" : "https://COUCHDBINSTALLATION.com:6984",
+  "targetDbUserName" : "USERNAME",
+  "targetDbPassword" : "PASSWORD",
+  "logLevel" : "info/debug"
+}
