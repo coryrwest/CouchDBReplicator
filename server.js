@@ -1,3 +1,4 @@
+#!/usr/bin/nodejs
 var http = require('./http.js');
 var config = require('./config.json');
 var promise = require('promise');
