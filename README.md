@@ -7,3 +7,4 @@ This app currently replicates all user specified databases to another CouchDB in
 - Choose which dbs to replicate
 - Add auth support
 - Backup/Replicate to multiple targets 
+- Specify a path for the config file
